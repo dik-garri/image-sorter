@@ -35,3 +35,7 @@ To customize the keyboard shortcuts, you can modify the mapping.txt file. The fi
 # Limitations
 
 The script currently only supports .jpg and .png image files.
+
+---
+
+[All projects →](https://dik-garri.github.io/garry/)
